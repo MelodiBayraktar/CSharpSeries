@@ -1,0 +1,15 @@
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/bin/Debug/net7.0/ConstructorMethod
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/bin/Debug/net7.0/ConstructorMethod.deps.json
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/bin/Debug/net7.0/ConstructorMethod.runtimeconfig.json
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/bin/Debug/net7.0/ConstructorMethod.dll
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/bin/Debug/net7.0/ConstructorMethod.pdb
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/ConstructorMethod.csproj.AssemblyReference.cache
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/ConstructorMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/ConstructorMethod.AssemblyInfoInputs.cache
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/ConstructorMethod.AssemblyInfo.cs
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/ConstructorMethod.csproj.CoreCompileInputs.cache
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/ConstructorMethod.dll
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/refint/ConstructorMethod.dll
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/ConstructorMethod.pdb
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/ConstructorMethod.genruntimeconfig.cache
+/Users/melodibayraktar/Projects/CSharpSeries/ConstructorMethod/obj/Debug/net7.0/ref/ConstructorMethod.dll
