@@ -6,10 +6,17 @@
     {
         List<string> sehirler = new List<string>();
         sehirler.Add("Ankara");
+        sehirler.Add("İstanbul");
+        sehirler.Add("Muğla");
+        sehirler.Add("Sivas");
+
         Console.WriteLine(sehirler.Count);
         
         MyList<string> sehirler2 = new MyList<string>();
         sehirler2.Add("İstanbul");
+        sehirler2.Add("Ankara");
+        sehirler2.Add("Muğla");
+        
         Console.WriteLine(sehirler2.Count);
     }
 }
@@ -28,6 +35,12 @@ class MyList<T>//generic class
      {
          _tempArray = _array;
          _array = new T[_array.Length + 1];
+         for (int i = 0; i < _tempArray.Length; i++)
+         {
+             _array[i] = _tempArray[i];
+         }
+
+         _array[_array.Length - 1] = item;
      }
 
      public int Count
